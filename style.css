@@ -1,0 +1,11 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 10px;
+}
+.can1{
+	border: 1px solid #111;
+	/*position: absolute;*/
+	background: linear-gradient(#111, #333,#999);
+}
